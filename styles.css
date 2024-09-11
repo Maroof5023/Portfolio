@@ -229,6 +229,9 @@ main {
 .section {
   margin-top: 5em;
 }
+.skills{
+  margin-right: 3.3rem;
+}
 
 .section__title {
   text-align: center;
@@ -252,7 +255,7 @@ main {
 
 .about {
   flex-direction: column;
-  margin-top: 3em;
+  margin-top: 6em;
 }
 
 .about__name {
